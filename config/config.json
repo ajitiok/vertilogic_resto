@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "admin",
+    "database": "database_vertilogic",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
