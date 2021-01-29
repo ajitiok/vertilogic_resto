@@ -1,5 +1,11 @@
 # vertilogic_resto
 
+- First : 
+  - npm install
+  - npx sequelize-cli db:create ( for create database in postgres )
+  - npx sequelize-cli db:migrate ( for create tabel )
+
+
 Tech :
 
 - Node js 
